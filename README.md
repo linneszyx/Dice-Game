@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> It is basic dice game which used to javascript to determine the winner
+> It is basic dice game which used javascript to determine the winner
 
 ### ✨ [Demo](https://linneszyx.github.io/Dice-Game/)
 
